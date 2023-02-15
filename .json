@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "AdNetwork": "admob",
+    "AdNetwork": "Vungle",
     "AdmobBanner": "ca-app-pub-7724318695843695/5657966844",
     "AdmobInterstitial": "ca-app-pub-7724318695843695/5466395155",
     "AdmobNative": "ca-app-pub-7724318695843695/8231873882",
@@ -10,10 +10,10 @@
     "UnityGameID": "4848007",
     "UnityBanner": "Banner_Android",
     "UnityInterstitial": "Interstitial_Android",
-    "VungleAppID": "63e6e23e98da8fc4920d0659",
-    "VungleBanner": "BANNER-9519141",
-    "VungleInterstitial": "DEFAULT-2635874",
-    "VungleMREC": "MREC-8278015",
+    "VungleAppID": "63ed41c4a7597bdab49c0f44",
+    "VungleBanner": "BANNER-4473157",
+    "VungleInterstitial": "INTERSTITIAL-9888411",
+    "VungleMREC": "BANNER-4473157",
     "RatingActive": true
   }
 }
